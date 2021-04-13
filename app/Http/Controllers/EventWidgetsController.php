@@ -6,7 +6,7 @@ use App\Models\Event;
 use Illuminate\Http\Request;
 
 /*
-  Attendize.com   - Event Management & Ticketing
+  fam.mw   - Event Management & Ticketing
  */
 
 class EventWidgetsController extends MyBaseController

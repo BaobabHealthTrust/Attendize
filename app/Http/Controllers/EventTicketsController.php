@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 use Log;
 
 /*
-  Attendize.com   - Event Management & Ticketing
+  fam.mw   - Event Management & Ticketing
  */
 
 class EventTicketsController extends MyBaseController

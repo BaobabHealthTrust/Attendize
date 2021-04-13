@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\View\View;
 
 /*
-  Attendize.com   - Event Management & Ticketing
+  fam.mw   - Event Management & Ticketing
  */
 
 class EventAccessCodesController extends MyBaseController

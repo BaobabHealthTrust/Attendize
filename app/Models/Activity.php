@@ -3,7 +3,7 @@
 namespace App\Models;
 
     /*
-      Attendize.com   - Event Management & Ticketing
+      fam.mw   - Event Management & Ticketing
      */
 
 /**
