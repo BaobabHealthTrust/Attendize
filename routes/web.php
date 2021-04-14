@@ -123,7 +123,7 @@ Route::group(
      */
     Route::group(['prefix' => 'o'], function () {
 
-        Route::get('/{organiser_id}/{organier_slug?}',
+        Route::get('/{organiser_id}/{organiser_slug?}',
             [OrganiserViewController::class, 'showOrganiserHome']
         )->name('showOrganiserHome');
 
