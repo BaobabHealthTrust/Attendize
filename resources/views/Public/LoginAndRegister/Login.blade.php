@@ -10,6 +10,10 @@
         min-width: 320px;
         margin: auto;
     }
+    .form-control, .btn {
+        height: 50px;
+        font-size: 16px;
+    }
 </style>
 @endsection
 
